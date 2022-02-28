@@ -6,14 +6,23 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
 ##
 #### Languages:
+#### Front-end:
+
 <p> 
     <a href="#"><img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" title="HTML"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript" title="Javascrript"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python" title="Python"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"></a>
+    
    
 </p>
+#### Back-end:
+<p> 
+    <a href="#"><img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="C" title="C"></a>
+   
+</p>
+
 
 #### Frameworks & libraries:
 <p>
@@ -40,6 +49,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+
+#### Hobbies:
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 
 
 ## **✔ #opentowork**
