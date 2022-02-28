@@ -19,7 +19,7 @@
 </p>
 #### Back-end:
 <p> 
-    <a href="#"><img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="C" title="C"></a>
+    <a href="#"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C" title="C"></a>
    
 </p>
 
