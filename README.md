@@ -18,7 +18,7 @@
 #### Frameworks & libraries:
 <p>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"></a>
-    <a href="#"><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/344/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png" alt="Jquery" title="Jquery"></a>
+    <a href="#"><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/452/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png" alt="Jquery" title="Jquery"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/vue-js.png" alt="Vue" title="Vue"></a>
 </p>
 
