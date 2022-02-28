@@ -49,7 +49,7 @@
 
 <br><br><br>
 <p>
-    <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a> <a href="https://github.com">Markdown badges by mehtaAnsh</a>
+    <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a> <a href="https://github.com">Markdown badges</a>
 </p>
 
 <!--
