@@ -5,26 +5,34 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-gutierrez/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
 ##
+
 ### Front-end:
+
 <p> 
     <a href="#"><img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" title="HTML"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript" title="Javascrript"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"></a>
 </p>
+
 ### Back-end:
+
 <p> 
     <a href="#"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" title="C++"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/java-coffee-cup-logo--v1.png" alt="Java" title="Java"></a>
     <a href="#"><img src="https://img.icons8.com/dusk/50/c.png" alt="C" title="C"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python" title="Python"></a>
 </p>
+
 #### Frameworks & libraries:
+
 <p>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"></a>
-    <!--a href="#"><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/452/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png" alt="Jquery" title="Jquery"></a-->
     <a href="#"><img src="https://img.icons8.com/color/50/000000/vue-js.png" alt="Vue" title="Vue"></a>
 </p>
+
+
+
 #### Tools:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
