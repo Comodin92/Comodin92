@@ -18,8 +18,8 @@
 #### Frameworks & libraries:
 <p>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"></a>
-    <a href="#"><img src="https://img.icons8.com/ios-filled/344/jquery.png" alt="Sass" title="Jquery"></a>
-    <a href="#"><img src="https://img.icons8.com/color/344/vue-js.png" alt="MySQL" title="VUE"></a>
+    <a href="#"><img src="https://img.icons8.com/color/50/000000/jquery.png" alt="Sass" title="Jquery"></a>
+    <a href="#"><img src="https://img.icons8.com/color/50/000000/vue-js.png" alt="MySQL" title="VUE"></a>
 </p>
 
 #### Tools:
