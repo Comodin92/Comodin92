@@ -52,16 +52,23 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+
 #### Hobbies:
+
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
+
+
 ## **✔ #opentowork**
+
+
 <br><br><br>
 <p>
-    <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a> <a href="https://github.com">Markdown badges</a>
+    <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a> <a href="https://github.com/Ileriayo/markdown-badges">Markdown badges</a>
 </p>
-<!--
 
 
--->
